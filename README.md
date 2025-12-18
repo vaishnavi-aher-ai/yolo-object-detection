@@ -10,6 +10,8 @@ YOLO
 
 Usage
 
-Run the detection script to detect objects in images.
+Run the detection script to perform object detection on images.
+
+Note
 
 This is an academic project developed under the guidance of faculty for learning object detection concepts in computer vision.
